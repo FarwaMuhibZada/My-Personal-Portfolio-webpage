@@ -100,7 +100,7 @@ const projects = [
     title: 'Next Advanced App',
     shortDes: 'Next.js web application that allows users to view blog posts, explore user profiles, and discover team insights.',
     longDes: `
-    is a Next.js web application that allows users to view blog posts, explore user profiles, and discover team insights. The platform supports both Static Site Generation (SSG) and Server-Side Rendering (SSR) for efficient data handling. The app features a responsive design powered by Tailwind CSS, making it accessible on all devices.`,
+    is a Next.js web application that allows users to view blog posts, explore user profiles, and discover team insights. The platform supports both Static Site Generation (SSG) and Server-Side Rendering (SSR) for efficient data handling.`,
     img: './asset/tech.PNG',
     technology: ['NextJS', 'Tailwind CSS', 'TypeScript'],
     liveLink: ' https://nextjs-advanced-8b9o2jgf2-farwamuhibzadas-projects.vercel.app/',
