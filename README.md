@@ -21,7 +21,7 @@ Contact Form: A contact form allows visitors to send messages directly from the 
 >
 ## Demo 📸
 
-life demo link [(https://farwamuhibzada.github.io/CapstoneProject_Personal_Portfolio/)]
+life demo link [(https://farwamuhibzada.github.io/My-Personal-Portfolio-webpage/)]
 
 how it looks in desktop screen
 
